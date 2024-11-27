@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e-tech-Proyecto", "e-tech-Proyecto\e-tech-Proyecto.csproj", "{E6EC9584-0A67-44E0-9F14-117C925F23A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e-tech-ProyectoAPI", "e-tech-ProyectoAPI\e-tech-ProyectoAPI.csproj", "{777BD628-AD19-4135-8B4C-71A18FA4B8AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E6EC9584-0A67-44E0-9F14-117C925F23A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6EC9584-0A67-44E0-9F14-117C925F23A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6EC9584-0A67-44E0-9F14-117C925F23A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{777BD628-AD19-4135-8B4C-71A18FA4B8AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777BD628-AD19-4135-8B4C-71A18FA4B8AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777BD628-AD19-4135-8B4C-71A18FA4B8AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777BD628-AD19-4135-8B4C-71A18FA4B8AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
